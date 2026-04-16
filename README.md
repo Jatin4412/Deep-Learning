@@ -1,2 +1,3 @@
-# Perceptron
-Basic implementation of Perceptron
+# Deep Learning
+
+Deep Learning practicals
